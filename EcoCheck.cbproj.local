@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.014,D:\C++\EcoCheck\EcoCheck.cbproj=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,D:\C++\EcoCheck\Unit1.h=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,D:\C++\EcoCheck\Project1PCH1.h=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,D:\C++\EcoCheck\Unit1.dfm=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,D:\C++\EcoCheck\Unit1.cpp=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,D:\C++\EcoCheck\EcoCheckPCH1.h=D:\C++\EcoCheck\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
